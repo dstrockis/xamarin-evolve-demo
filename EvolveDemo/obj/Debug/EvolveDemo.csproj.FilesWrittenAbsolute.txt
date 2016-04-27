@@ -1,0 +1,8 @@
+/Users/Danny/Source/EvolveDemo/EvolveDemo/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile7.AssemblyAttribute.cs
+/Users/Danny/Source/EvolveDemo/EvolveDemo/bin/Debug/EvolveDemo.dll.mdb
+/Users/Danny/Source/EvolveDemo/EvolveDemo/bin/Debug/EvolveDemo.dll
+/Users/Danny/Source/EvolveDemo/EvolveDemo/obj/Debug/EvolveDemo.dll
+/Users/Danny/Source/EvolveDemo/EvolveDemo/obj/Debug/EvolveDemo.dll.mdb
+/Users/Danny/Source/EvolveDemo/EvolveDemo/bin/Debug/Xamarin.Forms.Core.dll
+/Users/Danny/Source/EvolveDemo/EvolveDemo/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/Danny/Source/EvolveDemo/EvolveDemo/bin/Debug/Microsoft.Identity.Client.dll

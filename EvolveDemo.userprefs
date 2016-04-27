@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="iOS/EvolveDemo.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EvolveDemo/LoginPage.cs">
+    <Files>
+      <File FileName="EvolveDemo/LoginPage.cs" Line="106" Column="20" />
+      <File FileName="EvolveDemo/EvolveDemo.cs" Line="14" Column="39" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EvolveDemo" expanded="True">
+            <Node name="EvolveDemo" expanded="True" />
+            <Node name="EvolveDemo.iOS" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
